@@ -16,11 +16,11 @@
         }
     ],
     "require": {
-        "php": ">=5.5",
+        "php": ">=7.4.3",
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "guzzlehttp/guzzle": "^6.2",
+        "guzzlehttp/guzzle": "^7.0.1",
         "friendsofphp/php-cs-fixer": "^2.16"
     },
     "require-dev": {
