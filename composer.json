@@ -1,5 +1,5 @@
 {
-    "name": "thorarne/php-tripletex",
+    "name": "fdvhuset/php-tripletex",
     "description": "",
     "keywords": [
         "swagger",
@@ -20,12 +20,7 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "friendsofphp/php-cs-fixer": "^2.16",
         "guzzlehttp/guzzle": "^7.8"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^4.8",
-        "squizlabs/php_codesniffer": "~2.6"
     },
     "autoload": {
         "psr-4": { "Tripletex\\" : "lib/" }
